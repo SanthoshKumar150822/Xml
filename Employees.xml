@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employee category ="Details">
+    <Employee1>
+        <Details Type="Personal Information">
+            <First_Name>"Santhosh"</First_Name>
+            <Last_Name>"Kumar"</Last_Name>
+            <Dob>15/08/2002</Dob>
+            <Gender>Male</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Project Head</Position>
+            <Salary>7Cr</Salary>
+        </Details>
+        <Details type="ContactInformation">
+            <Email>Santhoshkumar150822@gmail.com</Email>
+            <Phone_Number>6379314514</Phone_Number>
+        </Details>
+    </Employee1>
+    <Employee2>
+        <Details type="Personal Information">
+            <First_Name>"Santhosh"</First_Name>
+            <Last_Name>"Rossey"</Last_Name>
+            <Dob>07/08/2002</Dob>
+            <Gender>Male</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Resource Manager</Position>
+            <Salary>1Cr</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>Santhoshrossey070822@gmail.com</Email>
+            <Phone_Number>9659614306</Phone_Number>
+        </Details>      
+    </Employee2 >
+    <Employee3>
+        <Details type="Personal Information">
+            <First_Name>"Santhosh"</First_Name>
+            <Last_Name>"Rocky"</Last_Name>
+            <Dob>01/08/2002</Dob>
+            <Gender>Female</Gender>
+        </Details>
+        <Details type="employment Information">
+            <Position>Designer</Position>
+            <Salary>50L</Salary>
+        </Details>
+        <Details type="Contact Information">
+            <Email>Santhoshrocky010822@gmail.com</Email>
+            <Phone_Number>8610238637</Phone_Number>
+        </Details> 
+    </Employee3>    
+</Employee>
